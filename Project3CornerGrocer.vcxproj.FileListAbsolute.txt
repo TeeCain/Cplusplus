@@ -1,0 +1,2 @@
+U:\CS-210-Python-C++\Project3CornerGrocer\Debug\Project3CornerGrocer.exe
+U:\CS-210-Python-C++\Project3CornerGrocer\Debug\Project3CornerGrocer.pdb
