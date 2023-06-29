@@ -6,7 +6,7 @@
 
 using namespace std;
 
-// Tinisha cain-Beckford
+
 // 06-16-2023
 /* This program analyzes the text records that a company generates throughout the day. 
 These records list items purchased in chronological order from the time the store opens to the time it closes. 
